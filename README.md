@@ -131,7 +131,7 @@ Newest entries go at the top.🔝
 | [Igalia Coding Experience](https://www.igalia.com/coding-experience/) | web technologies | yearly |
 
 ## research programs (cs / tech, us)
-Notice that: It should be a graduate program!!!
+Notice that: It should be a graduate program!!!但现在有的不是
 | program | focus |
 | --- | --- |
 | [CMU Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/) | robotics / CS research |
