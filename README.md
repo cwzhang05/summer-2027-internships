@@ -44,7 +44,6 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | --- | --- | --- | --- | --- |
 | Susquehanna | Quantitative Systematic Trading Intern (Master's, Summer 2027) | New York, NY | [apply](https://careers.sig.com/jobs/10823) | 2026-07-21 |
 | Chicago Trading Company | Quant Trading Intern (Summer 2027) | Chicago, IL | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 2026-07-20 |
-| Kearney & Company | IT Audit Intern (Summer 2027) 🇺🇸 | Alexandria, VA (remote) | [apply](https://careers.kearneyco.com/jobs/5168) | 2026-07-20 |
 | Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | [apply](https://job-boards.greenhouse.io/point72/jobs/7297642002) | 2026-07-16 |
 | Capital One | Product Development Internship Program (Summer 2027) | McLean, VA / Plano, TX | [apply](https://www.capitalonecareers.com/job/-/-/234/97421687312) | 2026-07-16 |
 | Solar Turbines (Caterpillar) | IT Intern (2027) | San Diego, CA | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898) | 2026-07-16 |
@@ -98,7 +97,6 @@ I'm US-based, so for now this list is US only and built for me. If it ever gets 
 | Walleye Capital | Quant Developer Intern | Boston, MA | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | - |
 | Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | [apply](https://job-boards.greenhouse.io/point72/jobs/7297613002) | - |
 | Trata | Research Scientist Intern | San Francisco, CA / New York, NY | [apply](https://www.workatastartup.com/jobs/94620) | - |
-| Paragon | Forward Deployed Engineer Intern 🇺🇸 | San Francisco, CA | [apply](https://www.workatastartup.com/jobs/93642) | - |
 | DimeHealth AI | Forward Deployed Engineering Intern | New York, NY | [apply](https://www.workatastartup.com/jobs/94211) | - |
 Newest entries go at the top.🔝
 
