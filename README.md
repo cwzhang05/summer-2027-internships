@@ -131,18 +131,15 @@ Newest entries go at the top.🔝
 | [Igalia Coding Experience](https://www.igalia.com/coding-experience/) | web technologies | yearly |
 
 ## research programs (cs / tech, us)
-
+Notice that: It should be a graduate program!!!
 | program | focus |
 | --- | --- |
 | [CMU Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/) | robotics / CS research |
 | [CMU Data Science for Social Good](https://www.dssgfellowship.org/) | data science |
 | [USC ICT Summer Research](https://ict.usc.edu/academics/internships/application/) | AI / graphics / CS |
-| [UC Berkeley SUPERB](https://eecs.berkeley.edu/resources/undergrads/research/superb) | EECS / IT |
-| [Indiana Luddy GTAP](https://luddy.indiana.edu/research/student-research/fellowship.html) | informatics / computing |
 | [WUSTL McKelvey Intl Research Internship](https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html) | engineering (for intl students) |
 | [UC Davis GREAT Program](https://great.ucdavis.edu/) | advanced technologies |
-| [Princeton Summer Research (Engineering)](https://undergraduateresearch.princeton.edu/programs/summer-programs) | engineering / CS |
-| [Stanford SURF (Engineering)](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer) | engineering / CS |
+
 | [IPAM UCLA Research](http://www.ipam.ucla.edu/programs/student-research-programs/) | math / computing |
 | [NSF DREU](https://cra.jotform.com/242948236029866) | distributed CS research |
 
